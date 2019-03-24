@@ -1,0 +1,14 @@
+
+Before solving the question:
+- Ask anything about the question and the data involved
+- Using brure force for firs step is acceptable
+- Write Pseudo code first
+
+
+Approches to solve problem:
+1. Examplify: make different examples
+2. Pattern matching with known solutions or algorithms
+3. Simplify and Genralize
+4. Base case and build. For Problems with 8 input data, first solve it for 1 or 2.
+5. Data structure Brainstorm
+
