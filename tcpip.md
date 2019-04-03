@@ -1,4 +1,4 @@
-# TCP/IP life cycle
+# TCP/IP life cycle 
 
 `FRAME:Binary[IP:ip[TCP:port[GET www.google.com]]]`
 Application -> client TCP(SYN) -> IP -> link -> SERVER -> server TCP (SYN-ACK) ->  client  
